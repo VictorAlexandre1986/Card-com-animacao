@@ -1,4 +1,4 @@
-# Card-com-animacao
+# Card com animação
 Card com efeito de expansão quando passa o mouse em cima
 
 ## Tecnologias utilizadas 💻
